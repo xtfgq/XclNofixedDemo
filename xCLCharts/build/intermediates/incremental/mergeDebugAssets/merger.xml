@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\demos\MyApplication\xCLCharts\src\main\assets"/><source path="G:\demos\MyApplication\xCLCharts\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="G:\demos\MyApplication\xCLCharts\src\debug\assets"/></dataSet></merger>
